@@ -17,4 +17,7 @@ class PagamentoActivity : AppCompatActivity() {
             insets
         }
     }
+
+    fun pagamentoBoleto(){}
+
 }
