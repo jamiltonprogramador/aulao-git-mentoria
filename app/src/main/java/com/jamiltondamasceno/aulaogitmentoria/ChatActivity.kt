@@ -17,4 +17,7 @@ class ChatActivity : AppCompatActivity() {
             insets
         }
     }
+
+    fun enviaImagem(){}
+
 }
