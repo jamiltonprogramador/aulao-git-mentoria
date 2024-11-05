@@ -18,6 +18,8 @@ class PagamentoActivity : AppCompatActivity() {
         }
     }
 
-    fun pagamentoBoleto(){}
+    fun pagamentoBoleto( tipo: String ){}
+
+    fun pagamentoCartaoCredito(){}
 
 }
