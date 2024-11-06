@@ -16,6 +16,9 @@
             android:name=".VendaActivity"
             android:exported="false" />
         <activity
+            android:name=".MarkegintActivity"
+            android:exported="false" />
+        <activity
             android:name=".PagamentoActivity"
             android:exported="false" />
         <activity
